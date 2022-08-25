@@ -40,5 +40,4 @@
 ## Resources
 
 * [Risks](resources/risks.md)
-* [Blog](https://blog.arbor.finance)
 * [Discord](https://discord.gg/T72Rdzu3)
