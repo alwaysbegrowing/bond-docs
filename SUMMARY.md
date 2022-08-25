@@ -10,7 +10,7 @@
   * [ZCB pricing](financial-concepts/zero-coupon-bonds/zcb-pricing.md)
 * [Options](financial-concepts/convertible-bonds/README.md)
   * [Call options](financial-concepts/convertible-bonds/call-options.md)
-  * [Option pricing](financial-concepts/convertible-bonds/option-pricing.md)
+* [Option pricing](financial-concepts/convertible-bonds/option-pricing.md)
 
 ## Protocol
 
@@ -39,7 +39,5 @@
 ## Resources
 
 * [Risks](resources/risks.md)
-* [Bug Bounty](https://immunefi.com/bounty/arborfinance/)
 * [Blog](https://blog.arbor.finance)
-* [Discord](https://discord.gg/mx8tsEaNut)
-* [Twitter](https://twitter.com/arborfinance\_)
+* [Discord](https://discord.gg/T72Rdzu3)
