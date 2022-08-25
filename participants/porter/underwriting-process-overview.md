@@ -2,7 +2,7 @@
 
 ## Summary
 
-Porter Finance attempts to mitigate the risk of lending to DAOs by performing a credit analysis on them before allowing a bond issuance. This process is based on a review of five key factors that air in predicting the probability of a DAO defaulting on their debt. These factors include character, capital, capacity, conditions, and collateral. The majority of lenders review most of this information prior to allowing a borrower to take on debt.
+Arbor Finance attempts to mitigate the risk of lending to DAOs by performing a credit analysis on them before allowing a bond issuance. This process is based on a review of five key factors that air in predicting the probability of a DAO defaulting on their debt. These factors include character, capital, capacity, conditions, and collateral. The majority of lenders review most of this information prior to allowing a borrower to take on debt.
 
 ## Character/credit&#x20;
 
@@ -119,7 +119,7 @@ Porter Finance attempts to mitigate the risk of lending to DAOs by performing a 
 * Discount collateral to allow for depreciation, transaction sale/costs&#x20;
 * Make sure collateral will be valuable at end of loan term&#x20;
 * Loan amount should not exceed discounted collateral value
-* Does the collateral [pose any risks](https://docs.porter.finance/portal/resources/risks#mitigating-collateral-token-risk)?
+* Does the collateral [pose any risks](https://docs.arbor.finance/portal/resources/risks#mitigating-collateral-token-risk)?
 
 ### Reducing collateral risk&#x20;
 

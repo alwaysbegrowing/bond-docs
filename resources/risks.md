@@ -2,7 +2,7 @@
 
 ## Summary&#x20;
 
-Porter Finance is heavily incentivized to mitigate, communicate, and accurately price the risk its users take. At launch, the Porter Finance platform will have two users, borrowers and lenders. Given borrowers do not face interest rate risk or liquidation risk, they effectively bear no platform related risk other than smart contract risk, which will be mitigated through auditing. Therefore, we will focus on the risk lenders are taking when using the platform.
+Arbor Finance is heavily incentivized to mitigate, communicate, and accurately price the risk its users take. At launch, the Arbor Finance platform will have two users, borrowers and lenders. Given borrowers do not face interest rate risk or liquidation risk, they effectively bear no platform related risk other than smart contract risk, which will be mitigated through auditing. Therefore, we will focus on the risk lenders are taking when using the platform.
 
 ## Active trading markets for the bonds may not develop&#x20;
 
@@ -26,7 +26,7 @@ This may lead to complete or partial loss of user funds.
 
 ### Mitigating default risk
 
-The Porter Finance team takes issuers through a verification process and [underwrites bond issuances](../participants/porter/underwriting-process-overview.md) by thoroughly reviewing the DAO's financials and analyzing the risk of the collateral provided.
+The Arbor Finance team takes issuers through a verification process and [underwrites bond issuances](../participants/arbor/underwriting-process-overview.md) by thoroughly reviewing the DAO's financials and analyzing the risk of the collateral provided.
 
 ## In the case of a default, collateral slippage may occur if lenders liquidate collateral
 
@@ -53,4 +53,4 @@ Borrowers use collateral tokens to back their issuances. The usage of these coll
 
 ### Mitigating smart contract risk
 
-The threat of contract vulnerabilities is taken extremely seriously by the Porter team. Our smart contracts have been audited by two security firms, Zellic and Spearbit. Our audits can be found [here](https://github.com/porter-finance/audits).
+The threat of contract vulnerabilities is taken extremely seriously by the Arbor team. Our smart contracts have been audited by two security firms, Zellic and Spearbit. Our audits can be found [here](https://github.com/arbor-finance/audits).

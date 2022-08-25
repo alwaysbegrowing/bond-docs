@@ -33,13 +33,13 @@
   * [How does lending work?](participants/lenders/how-to-lend.md)
   * [When can I convert my bonds?](participants/lenders/when-can-i-convert-my-bonds.md)
   * [How do defaults work?](participants/lenders/defaults.md)
-* [Porter](participants/porter/README.md)
-  * [Underwriting process overview](participants/porter/underwriting-process-overview.md)
+* [Arbor](participants/arbor/README.md)
+  * [Underwriting process overview](participants/arbor/underwriting-process-overview.md)
 
 ## Resources
 
 * [Risks](resources/risks.md)
-* [Bug Bounty](https://immunefi.com/bounty/porterfinance/)
-* [Blog](https://blog.porter.finance)
+* [Bug Bounty](https://immunefi.com/bounty/arborfinance/)
+* [Blog](https://blog.arbor.finance)
 * [Discord](https://discord.gg/mx8tsEaNut)
-* [Twitter](https://twitter.com/porterfinance\_)
+* [Twitter](https://twitter.com/arborfinance\_)

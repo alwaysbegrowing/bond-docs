@@ -14,7 +14,7 @@ Simple bonds offer investors an alternative to yield farming by providing sustai
 
 ### Competitive yields
 
-Both yield farming and simple bonds offer competitive yields. Historically, yield farming has provided 10-20% variable returns but those have compressed recently due to decreases in farming token prices. We expect lenders to earn 10-15% return on simple bonds issued through Porter.
+Both yield farming and simple bonds offer competitive yields. Historically, yield farming has provided 10-20% variable returns but those have compressed recently due to decreases in farming token prices. We expect lenders to earn 10-15% return on simple bonds issued through Arbor.
 
 ### Sustainable returns
 
@@ -34,11 +34,11 @@ While yield farming returns are wildly variable depending on day to day borrow d
 
 To generate competitive returns, yield farmers are typically forced to deposit funds in complex protocols on non-mainnet Ethereum blockchains. This exposes investors to high smart contract risk as well as bridging risk. As illustrated by the [recent Wormhole hack](https://cointelegraph.com/news/wormhole-hack-illustrates-danger-of-defi-cross-chain-bridges), bridging funds adds a significant amount of risk to investor strategies.
 
-Porter smart contracts are on Ethereum mainnet, which eliminates any bridging risk investors are exposed to. In addition, Porter contracts have gone through [two audits](https://github.com/porter-finance/audits) and are [relatively simple](https://github.com/porter-finance/v1-core/tree/main/contracts). This reduced complexity results in decreased risk for investors.
+Arbor smart contracts are on Ethereum mainnet, which eliminates any bridging risk investors are exposed to. In addition, Arbor contracts have gone through [two audits](https://github.com/arbor-finance/audits) and are [relatively simple](https://github.com/arbor-finance/v1-core/tree/main/contracts). This reduced complexity results in decreased risk for investors.
 
 ### No credit risk
 
-Lending to DAOs does bear a risk that is not shared by yield farming. Credit risk. To mitigate this risk, Porter confirms creditworthiness through verification and underwriting. In addition, DAOs heavily overcollateralize their bond issuances to mitigate incentive to default. DAOs also use an on-chain signature service to promise they will repay the amount borrowed plus interest.
+Lending to DAOs does bear a risk that is not shared by yield farming. Credit risk. To mitigate this risk, Arbor confirms creditworthiness through verification and underwriting. In addition, DAOs heavily overcollateralize their bond issuances to mitigate incentive to default. DAOs also use an on-chain signature service to promise they will repay the amount borrowed plus interest.
 
 ## Why should DAOs sell simple bonds?
 
