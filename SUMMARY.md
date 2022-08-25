@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Litepaper](litepaper.md)
 * [FAQ](faq.md)
 
 ## Financial concepts
@@ -20,7 +21,7 @@
 * [Offerings](protocol/offerings/README.md)
   * [Auctions](protocol/offerings/auctions.md)
   * [OTC sales](protocol/offerings/otc-sales.md)
-* [Token](protocol/prtr-token.md)
+* [Token](protocol/arbor-token.md)
 
 ## Participants
 
