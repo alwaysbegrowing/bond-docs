@@ -40,4 +40,4 @@
 ## Resources
 
 * [Risks](resources/risks.md)
-* [Discord](https://discord.gg/T72Rdzu3)
+* [Discord](https://discord.gg/MSb5xKFdf6)
