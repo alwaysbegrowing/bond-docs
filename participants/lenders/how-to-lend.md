@@ -3,7 +3,7 @@
 Lending is facilitated through the purchasing of [bonds](../../protocol/bonds/). Bonds can be purchased through participation in [offerings](../../protocol/offerings/).
 
 {% hint style="info" %}
-If you're interested in becoming a lender, fill out this [lending form](https://forms.gle/LaDvgXJMZi788LmM6) and we will get back to you shortly.
+If you're interested in becoming a lender, join our [discord](https://discord.com/invite/MSb5xKFdf6) and we will get back to you shortly.
 {% endhint %}
 
 ## Example
@@ -18,7 +18,7 @@ Uniswap decides to sell their convertible bonds via an auction with a minimum pr
 
 ### Redemption
 
-#### **Full repayment**&#x20;
+#### **Full repayment**
 
 If Uniswap fully repays the bonds before the 12 months have passed, the lender will be able to withdraw $1/bond.
 

@@ -1,2 +1,0 @@
-# Underwriting process overview
-

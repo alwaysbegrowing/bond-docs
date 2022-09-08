@@ -34,8 +34,6 @@
   * [How does lending work?](participants/lenders/how-to-lend.md)
   * [When can I convert my bonds?](participants/lenders/when-can-i-convert-my-bonds.md)
   * [How do defaults work?](participants/lenders/defaults.md)
-* [Arbor](participants/arbor/README.md)
-  * [Underwriting process overview](participants/arbor/underwriting-process-overview.md)
 
 ## Resources
 

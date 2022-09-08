@@ -3,7 +3,7 @@
 Borrowing is facilitated through the creation of a [bond](../../protocol/bonds/) and its sale through an [offering](../../protocol/offerings/).
 
 {% hint style="info" %}
-If your DAO is interested in becoming a borrower, fill out this [borrower form](https://forms.gle/2yRDPL8Pdmv24xJEA) and we will get back to you shortly.
+If your DAO is interested in becoming a borrower, fill out this [borrower form](https://docs.google.com/forms/d/e/1FAIpQLSddCygZX3vZu3B8oZ9-ohza15muJbWVo-rhz8u2nSJ4M7NRhw/viewform) and we will get back to you shortly.
 {% endhint %}
 
 ## Example
@@ -20,7 +20,7 @@ Uniswap decides to sell the bonds via an auction with a minimum price of $0.943,
 
 For every bond that is repaid, Uniswap is able to withdraw the collateral/bond which is 0.5 UNI.
 
-#### **Full repayment**&#x20;
+#### **Full repayment**
 
 If Uniswap fully repays the $1,000,000 before the 12 months have passed, they will be able to withdraw all their collateral.
 
