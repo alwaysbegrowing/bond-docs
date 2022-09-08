@@ -4,7 +4,7 @@
 
 Convertible bonds allow DAOs and other on-chain entities to borrow stablecoins using tokens they have in their treasury as collateral. Any time before the maturity date, lenders can convert their bonds into a set amount of collateral tokens.
 
-Convertible bonds give the lender upside in the collateral token along with the interest rate earned. When purchasing convertible bonds, lenders are effectively buying [call options](../../financial-concepts/convertible-bonds/call-options.md) on the collateral token, and purchasing a [zero coupon bond](../../financial-concepts/zero-coupon-bonds/).&#x20;
+Convertible bonds give the lender upside in the collateral token along with the interest rate earned. When purchasing convertible bonds, lenders are effectively buying [call options](../../financial-concepts/convertible-bonds/call-options.md) on the collateral token, and purchasing a [zero coupon bond](../../financial-concepts/zero-coupon-bonds/).
 
 > Convertible Bond = Zero Coupon Bond + Call Options
 
@@ -20,7 +20,7 @@ Both yield farming and convertible bonds offer competitive yields. Historically,
 
 ### Sustainable returns
 
-Yield farming programs are inherently unsustainable. The majority of yield earned through yield farming comes from the project providing their native token as a subsidy. Usually, around 10-30% of the APR comes from interest paid by borrowers while 70-90% comes from token subsidies.&#x20;
+Yield farming programs are inherently unsustainable. The majority of yield earned through yield farming comes from the project providing their native token as a subsidy. Usually, around 10-30% of the APR comes from interest paid by borrowers while 70-90% comes from token subsidies.
 
 ![](<../../.gitbook/assets/image (60).png>)
 
@@ -44,7 +44,7 @@ While yield farming returns are wildly variable depending on day to day borrow d
 
 To generate competitive returns, yield farmers are typically forced to deposit funds in complex protocols on non-mainnet Ethereum blockchains. This exposes investors to high smart contract risk as well as bridging risk. As illustrated by the [recent Wormhole hack](https://cointelegraph.com/news/wormhole-hack-illustrates-danger-of-defi-cross-chain-bridges), bridging funds adds a significant amount of risk to investor strategies.
 
-Arbor smart contracts are on Ethereum mainnet, which eliminates any bridging risk investors are exposed to. In addition, Arbor contracts have gone through [two audits](https://github.com/arbor-finance/audits) and are [relatively simple](https://github.com/arbor-finance/v1-core/tree/main/contracts). This reduced complexity results in decreased risk for investors.
+Arbor smart contracts are on Ethereum mainnet, which eliminates any bridging risk investors are exposed to. In addition, Arbor contracts have gone through [two audits](https://github.com/alwaysbegrowing/arbor-contracts/tree/main/audits) and are [relatively simple](https://github.com/alwaysbegrowing/arbor-contracts). This reduced complexity results in decreased risk for investors.
 
 ### No credit risk
 
