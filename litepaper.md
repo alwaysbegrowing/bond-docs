@@ -12,11 +12,11 @@ The creation of credit is an efficient way to allocate resources in a capitalist
 
 ### DAOs lack access to credit
 
-Permissionless credit markets predicated on social capital remain nascent. Notable pioneers like TrueFi or Maple Finance, while allowing for permissionless lending, still require contractual agreements on behalf of borrowers.[^1^](#references) [^2^](#references) Such constraints help explain why these types of credit lines have not yet been made available to DAOs. DAOs need dynamic, on-chain financing options that provide long-term capital and flexible repayment schedules to fit their timelines and goals. Bonds are flexible, long term debt instruments which have satisfied the credit needs of corporations for centuries and will do the same for DAOs.
+Permissionless credit markets predicated on social capital remain nascent. Notable pioneers like TrueFi or Maple Finance, while allowing for permissionless lending, still require contractual agreements on behalf of borrowers.[^1](#references) [^2](#references) Such constraints help explain why these types of credit lines have not yet been made available to DAOs. DAOs need dynamic, on-chain financing options that provide long-term capital and flexible repayment schedules to fit their timelines and goals. Bonds are flexible, long term debt instruments which have satisfied the credit needs of corporations for centuries and will do the same for DAOs.
 
 ### DAOs need credit
 
-The sale of equity-equivalent, governance tokens is the current, dominant strategy for DAOs looking to raise capital. While valuable as a method to initially fund development, selling governance tokens productively becomes increasingly difficult for a DAO as it matures. To start, there is not enough liquidity for large cap DAOs to sell any meaningful number of tokens on the open market without collapsing the price.[^3^](#references) Moreover, attempts by DAOs to sell tokens privately to raise funds have sparked community backlash by members wanting to avoid centralization.[^4^](#references) Even if the community allowed for private sales, the maximum supply inherent to most governance token contracts renders selling them unsustainable. Issuing bonds offers a sustainable way for mature DAOs to raise the capital needed for protocol development.
+The sale of equity-equivalent, governance tokens is the current, dominant strategy for DAOs looking to raise capital. While valuable as a method to initially fund development, selling governance tokens productively becomes increasingly difficult for a DAO as it matures. To start, there is not enough liquidity for large cap DAOs to sell any meaningful number of tokens on the open market without collapsing the price.[^3](#references) Moreover, attempts by DAOs to sell tokens privately to raise funds have sparked community backlash by members wanting to avoid centralization.[^4](#references) Even if the community allowed for private sales, the maximum supply inherent to most governance token contracts renders selling them unsustainable. Issuing bonds offers a sustainable way for mature DAOs to raise the capital needed for protocol development.
 
 Token buybacks are another potential use of proceeds obtained through bond sales. If a community feels as though its token is undervalued, it can issue a bond with the intention of using the proceeds to purchase the token. This rewards token holders similar to how share buybacks reward equity holders in traditional finance.
 
@@ -90,10 +90,10 @@ If the funding threshold is not surpassed, there is no auction settlement and bi
 
 ## References
 
-1. TrustToken. <i>Introducing TrueFi, the DeFi Protocol for Uncollateralized Lending.</i> URL: https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48
-2. Katya Ternopolska. <i>Guide to Lending on Maple.</i> URL: https://maplefinance.ghost.io/lending/
-3. Hasu. <i>A New Mental Model for Defi Treasuries.</i> URL: https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/
-4. 0xMaki. <i>Sushi Phantom Troupe - Strategic Raise.</i> URL: https://forum.sushi.com/t/withdrawn-sushi-phantom-troupe-strategic-raise/4554
+[^1] TrustToken. <i>Introducing TrueFi, the DeFi Protocol for Uncollateralized Lending.</i> URL: https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48
+[^2] Katya Ternopolska. <i>Guide to Lending on Maple.</i> URL: https://maplefinance.ghost.io/lending/
+[^3] Hasu. <i>A New Mental Model for Defi Treasuries.</i> URL: https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/
+[^4] 0xMaki. <i>Sushi Phantom Troupe - Strategic Raise.</i> URL: https://forum.sushi.com/t/withdrawn-sushi-phantom-troupe-strategic-raise/4554
 
 ## Disclaimer
 
