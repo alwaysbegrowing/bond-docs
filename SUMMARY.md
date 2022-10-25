@@ -39,3 +39,5 @@
 
 * [Risks](resources/risks.md)
 * [Discord](https://discord.gg/MSb5xKFdf6)
+* [Website](https://arbor.garden)
+* [App](https://app.arbor.garden)
