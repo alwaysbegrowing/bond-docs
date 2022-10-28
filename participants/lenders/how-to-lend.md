@@ -1,4 +1,4 @@
-# How does lending work?
+# How does lending work? 
 
 Lending is facilitated through the purchasing of [bonds](../../protocol/bonds/). Bonds can be purchased through participation in [offerings](../../protocol/offerings/).
 
