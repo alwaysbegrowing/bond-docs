@@ -1,4 +1,4 @@
-# How does borrowing work?
+# How does borrowing work? 
 
 Borrowing is facilitated through the creation of a [bond](../../protocol/bonds/) and its sale through an [offering](../../protocol/offerings/).
 
