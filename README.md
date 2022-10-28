@@ -22,6 +22,6 @@ Our mission is to enable DAOs to grow and thrive by giving them access to credit
 
 If you believe DAOs should have access to credit, join the discussion in the [Arbor community discord](https://discord.com/invite/MSb5xKFdf6). We look forward to meeting you!
 
-{% hint style="info" %}
+{% hint style="info" %} 
 Join the Arbor community [here](https://discord.com/invite/MSb5xKFdf6)!
 {% endhint %}
