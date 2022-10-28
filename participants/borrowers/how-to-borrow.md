@@ -3,7 +3,7 @@
 Borrowing is facilitated through the creation of a [bond](../../protocol/bonds/) and its sale through an [offering](../../protocol/offerings/).
 
 {% hint style="info" %}
-If your DAO is interested in becoming a borrower, fill out this [borrower form](https://docs.google.com/forms/d/e/1FAIpQLSddCygZX3vZu3B8oZ9-ohza15muJbWVo-rhz8u2nSJ4M7NRhw/viewform) and we will get back to you shortly.
+If your DAO is interested in becoming a borrower, fill out this [borrower form](https://forms.gle/Hn4FQscKbj9BniKu8) and we will get back to you shortly.
 {% endhint %}
 
 ## Example

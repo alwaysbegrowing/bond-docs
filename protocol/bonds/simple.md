@@ -32,9 +32,9 @@ While yield farming returns are wildly variable depending on day to day borrow d
 
 ### Low smart contract risk
 
-To generate competitive returns, yield farmers are typically forced to deposit funds in complex protocols on non-mainnet Ethereum blockchains. This exposes investors to high smart contract risk as well as bridging risk. As illustrated by the [recent Wormhole hack](https://cointelegraph.com/news/wormhole-hack-illustrates-danger-of-defi-cross-chain-bridges), bridging funds adds a significant amount of risk to investor strategies.
+To generate competitive returns, yield farmers are typically forced to deposit funds in complex protocols on non-mainnet Ethereum blockchains. This exposes investors to high smart contract risk as well as bridging risk. As illustrated by the [Wormhole hack](https://cointelegraph.com/news/wormhole-hack-illustrates-danger-of-defi-cross-chain-bridges), bridging funds adds a significant amount of risk to investor strategies.
 
-Arbor smart contracts are on Ethereum mainnet, which eliminates any bridging risk investors are exposed to. In addition, Arbor contracts have gone through [two audits](https://github.com/arbor-finance/audits) and are [relatively simple](https://github.com/arbor-finance/v1-core/tree/main/contracts). This reduced complexity results in decreased risk for investors.
+Arbor smart contracts are on Ethereum mainnet, which eliminates any bridging risk investors are exposed to. In addition, Arbor contracts have gone through [two audits](https://github.com/alwaysbegrowing/arbor-contracts/tree/main/audits) and are [relatively simple](https://github.com/alwaysbegrowing/arbor-contracts/). This reduced complexity results in decreased risk for investors.
 
 ### No credit risk
 
