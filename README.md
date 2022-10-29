@@ -1,5 +1,6 @@
 ---
-cover: https://i.imgur.com/Txvqfk3.png
+cover: >-
+  https://media.discordapp.net/attachments/992823753027366922/1035601535759028285/580225345_sprawling_fantasy_library_with_bulbous_architecture__balconies__arches__grand_windows_and_domes__int-1-transformed.png?width=1410&height=793
 coverY: 0
 ---
 
