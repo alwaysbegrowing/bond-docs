@@ -1,9 +1,9 @@
-# How does lending work? 
+# How does lending work?
 
 Lending is facilitated through the purchasing of [bonds](../../protocol/bonds/). Bonds can be purchased through participation in [offerings](../../protocol/offerings/).
 
 {% hint style="info" %}
-If you're interested in becoming a lender, join our [discord](https://discord.com/invite/MSb5xKFdf6) and we will get back to you shortly.
+If you're interested in becoming a lender, join our [discord](https://discord.com/invite/facdBD3ZtA) and we will get back to you shortly.
 {% endhint %}
 
 ## Example
