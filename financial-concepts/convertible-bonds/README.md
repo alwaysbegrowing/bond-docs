@@ -1,4 +1,4 @@
-# Options
+# Options 
 
 An option gives the holder the right to buy or sell a particular token at a specified price (the [strike price](https://www.investopedia.com/terms/s/strikeprice.asp)) for a certain period of time. There are two kinds of options, calls and puts. [Calls](call-options.md) allow the holder to lock in a price at which to buy the token. Puts allow the holder to lock in the selling price. Options don’t last forever, though, they have an [expiration date](https://www.investopedia.com/terms/e/expiration-date.asp). After this date, the holder can no longer buy or sell the token at the strike price and the option is worthless. Put options aren't used in the protocol so we will only cover call options.
 
