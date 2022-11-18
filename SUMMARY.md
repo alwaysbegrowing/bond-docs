@@ -35,14 +35,14 @@
   * [When can I convert my bonds?](participants/lenders/when-can-i-convert-my-bonds.md)
   * [How do defaults work?](participants/lenders/defaults.md)
 
+## Developer API
+
+* [Bond](developer-api/bond.md)
+* [BondFactory](developer-api/bondfactory.md)
+
 ## Resources
 
 * [Risks](resources/risks.md)
 * [Discord](https://discord.gg/facdBD3ZtA)
 * [Website](https://arbor.garden)
 * [App](https://app.arbor.garden)
-
-## Developer API
-
-* [Bond](developer-api/bond.md)
-* [BondFactory](developer-api/bondfactory.md)
