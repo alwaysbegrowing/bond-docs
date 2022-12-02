@@ -43,6 +43,7 @@
 ## Resources
 
 * [Risks](resources/risks.md)
+* [Bug Bounty](https://immunefi.com/bounty/arborfinance/)
 * [Discord](https://discord.gg/facdBD3ZtA)
 * [Website](https://arbor.garden)
 * [App](https://app.arbor.garden)
