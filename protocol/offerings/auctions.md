@@ -1,8 +1,8 @@
 # Auctions
 
-## Summary 
+## Summary
 
-Auctions allow borrowers to set a minimum price for their bond sales and allow market demand to set the final price. Setting a minimum price also sets a maximum interest rate the borrower is willing to pay.&#x20;
+Auctions allow borrowers to set a minimum price for their bond sales and allow market demand to set the final price. Setting a minimum price also sets a maximum interest rate the borrower is willing to pay.
 
 ## Market-driven bond pricing
 
@@ -20,7 +20,7 @@ Auctions are powered by Gnosis Auction. For more details, [read their docs](http
 
 Once you click on an ongoing auction under the “offerings” tab, you will see the auction details with all the necessary information available.
 
-<img width="866" alt="Screenshot 2022-12-06 at 15 30 53" src="https://user-images.githubusercontent.com/112566599/205860129-23223a61-903f-4dd0-a641-ed7906989fc5.png">
+![Screenshot 2022-12-06 at 15 30 53](https://user-images.githubusercontent.com/112566599/205860129-23223a61-903f-4dd0-a641-ed7906989fc5.png)
 
 As seen in the screenshot above, you will find the following information.
 
@@ -40,14 +40,13 @@ Max bond YTM: The maximum yield to maturity is the total delta in-between the mi
 
 ## Place an order
 
-To place an order, enter the amount of USDC you would like to lend out. 
+To place an order, enter the amount of USDC you would like to lend out.
 
-Define your maximum acceptable bond price and therefore minimum accepted yield for the offering. 
+Define your maximum acceptable bond price and therefore minimum accepted yield for the offering.
 
-![1_rKacGEcMkqf_WOp2bskqtQ](https://user-images.githubusercontent.com/112566599/205862297-64cf00b6-8c42-4c46-b562-202791b5e915.jpeg)
+![](https://user-images.githubusercontent.com/112566599/205862297-64cf00b6-8c42-4c46-b562-202791b5e915.jpeg)
 
-If the current bond price at the closing of the auction is lower than your accepted maximum bond price, your order will get filled. You can claim your bonds after the auction. 
+If the current bond price at the closing of the auction is lower than your accepted maximum bond price, your order will get filled. You can claim your bonds after the auction.
 
-Please find a video with a walk-through here: 
+Please find a video with a walk-through [here](https://youtu.be/GtH\_fnBuBV4):
 
-https://youtu.be/GtH_fnBuBV4
