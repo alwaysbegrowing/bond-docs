@@ -6,7 +6,7 @@ description: Additional steps may be taken to enhance the borrower's credit.
 
 ## Promissory Note
 
-Issuers may add an on-chain promise to repay the bond. This is displayed alongside the issuer information on the Bond page. The message to be signed consists of the `bond` address as well as the content **"This signature represents a promise to unconditionally pay the bond by the maturity date."**
+Issuers may add an on-chain promise to repay the bond. This is displayed alongside the issuer information on the Bond page. The message to be signed consists of the `bond` address as well as the content **This signature represents a promise to unconditionally repay the bond in full by the maturity date.**
 
 <details>
 
