@@ -6,7 +6,7 @@ Auctions allow borrowers to set a minimum price for their bond sales and allow m
 
 ## Market-driven bond pricing
 
-Auctions are implemented as batch auctions where lenders submit public bids with their desired amount and interest rate. Bids are included in the order of lowest interest rate to highest with a higher bid amount breaking ties. At auction end, the minimum interest rate required to reach the funding threshold is determined. This is the final rate for all participants. Lenders who specified an interest rate lower than or equal to the final clearing interest rate receive bonds at the clearing interest rate. Lenders that specified an interest rate higher than the final clearing interest rate do not receive any bonds and have their funds refunded.
+Auctions are implemented as batch auctions where lenders submit public bids with their desired amount and interest rate. Bids are included in the order of lowest interest rate to highest, with a higher bid amount breaking ties. At the close of the auction, the minimum interest rate required to reach the funding threshold is determined. This is the final rate for all participants. Lenders who specified an interest rate lower than or equal to the final clearing interest rate receive bonds at the clearing interest rate. Lenders that specified an interest rate higher than the final clearing interest rate do not receive any bonds and have their funds refunded.
 
 ![](<../../.gitbook/assets/image (44).png>)
 
@@ -46,7 +46,6 @@ Define your maximum acceptable bond price and therefore minimum accepted yield f
 
 ![](https://user-images.githubusercontent.com/112566599/205862297-64cf00b6-8c42-4c46-b562-202791b5e915.jpeg)
 
-If the current bond price at the closing of the auction is lower than your accepted maximum bond price, your order will get filled. You can claim your bonds after the auction.
+If the current bond price at the auction's closing is lower than your accepted maximum bond price, your order will get filled. You can claim your bonds after the auction.
 
-Please find a video with a walk-through [here](https://youtu.be/GtH\_fnBuBV4):
-
+Please find a video with a walk-through [here](https://youtu.be/dlOd0nAUmVM).&#x20;
