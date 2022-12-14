@@ -1,8 +1,9 @@
-# Arbor: A Bond Issuance Protocol
+# Arbor: DeFi Native Debt Financing
 
 ## Abstract
 
-Arbor allows DAOs and other on-chain entities to obtain financing by selling long-term debt in the form of tokenized bonds. It facilitates debt pricing, issuance, and repayment.
+Arbor allows DAOs and other on-chain entities to obtain financing by selling long-term debt. Our first product is bonds for DAOs. 
+
 
 ## Introduction
 
@@ -12,19 +13,19 @@ The creation of credit is an efficient way to allocate resources in a capitalist
 
 ### DAOs lack access to credit
 
-Permissionless credit markets predicated on social capital remain nascent. Notable pioneers like TrueFi or Maple Finance, while allowing for permissionless lending, still require contractual agreements on behalf of borrowers.[1](#references) [2](#references) Such constraints help explain why these types of credit lines have not yet been made available to DAOs. DAOs need dynamic, on-chain financing options that provide long-term capital and flexible repayment schedules to fit their timelines and goals. Bonds are flexible, long term debt instruments which have satisfied the credit needs of corporations for centuries and will do the same for DAOs.
+Permissionless credit markets predicated on social capital remain nascent. Notable pioneers like TrueFi or Maple Finance, while allowing for permissionless lending, still require contractual agreements on behalf of borrowers.[1](#references) [2](#references). Such constraints help explain why these types of credit lines have not yet been made available to DAOs. DAOs need dynamic, on-chain financing options that provide long-term capital and flexible repayment schedules to fit their timelines and goals. Bonds are flexible, long term debt instruments which have satisfied the credit needs of corporations for centuries and will do the same for DAOs.
 
 ### DAOs need credit
 
-The sale of equity-equivalent, governance tokens is the current, dominant strategy for DAOs looking to raise capital. While valuable as a method to initially fund development, selling governance tokens productively becomes increasingly difficult for a DAO as it matures. To start, there is not enough liquidity for large cap DAOs to sell any meaningful number of tokens on the open market without collapsing the price.[3](#references) Moreover, attempts by DAOs to sell tokens privately to raise funds have sparked community backlash by members wanting to avoid centralization.[4](#references) Even if the community allowed for private sales, the maximum supply inherent to most governance token contracts renders selling them unsustainable. Issuing bonds offers a sustainable way for mature DAOs to raise the capital needed for protocol development.
 
-Token buybacks are another potential use of proceeds obtained through bond sales. If a community feels as though its token is undervalued, it can issue a bond with the intention of using the proceeds to purchase the token. This rewards token holders similar to how share buybacks reward equity holders in traditional finance.
+The sale of equity-equivalent, governance tokens is the current, dominant strategy for DAOs looking to raise capital. While valuable as a method to initially fund development, selling governance tokens productively becomes increasingly difficult for a DAO as it matures. To start, there is not enough liquidity for large cap DAOs to sell any meaningful number of tokens on the open market without collapsing the price.[3](#references) Moreover, attempts by DAOs to sell tokens privately to raise funds have sparked community backlash by members wanting to avoid centralization. Even if the community allowed for private sales, the maximum supply inherent to most governance token contracts renders selling them unsustainable. Issuing bonds offers a sustainable way for mature DAOs to raise the capital needed for protocol development.
+
 
 ### Investing in bonds
 
-Bonds have a lower risk profile than equity investments as a result of their predetermined return, duration, and seniority within the issuer’s capital structure. Their risk is primarily dependent on the issuer’s ability to repay the amount borrowed plus interest. In contrast, the risk and return from equity depends on the value assigned to the selling organization by the equity market. Currently, the valuations of DAOs are quite speculative, leading to elevated risks and rewards for equity investors. For parties looking to hedge their risk with a productive asset, bonds remain an attractive option.
+Bonds have a different risk profile than equity investments as a result of their predetermined return and duration. Their risk is primarily dependent on the issuer’s ability to repay the amount borrowed plus interest. In contrast, the risk and return from equity depends on the value assigned to the selling organization by the equity market. For parties looking to hedge their risk with a productive asset, bonds remain an attractive option.
 
-Investors who purchase debt issued by DAOs benefit from increased accessibility and transparency. Traditionally, investors do not have access to purchase debt instraments until they have been touched by many fee-taking middlemen. Decentralized bonds can be sold directly to investors without gatekeepers, leading to better terms for both sides. In addition, the transparency of DAO financials leads to lower risk for bond holders — both DAO cash flows and balance sheets exist on-chain in real-time.
+Investors who purchase debt issued by DAOs benefit from increased accessibility and transparency. Traditionally, investors do not have access to purchase debt instruments until they have been touched by many fee-taking middlemen. Decentralized bonds can be sold directly to investors without gatekeepers, leading to better terms for both sides. In addition, the transparency of DAO financials leads to lower risk for bond holders — both DAO cash flows and balance sheets exist on-chain in real-time.
 
 ## Bond implementation
 
@@ -36,7 +37,7 @@ A bond issuer is responsible for paying borrowed principal plus interest to a re
 
 ### Default and delinquency
 
-If a bond issuer does not pay the owed amount by the maturity date, the bond becomes delinquent. Subsequently, Arbor alerts the bond holders as well as credit protocols. If the principal and interest is not paid after a reasonable amount of time, the bond is declared to be in default and the aforementioned parties are alerted once again. Once a bond is defaulted on, bond holders will be able to exchange their bond tokens for a prorated share of the collateral provided at issuance from the collateral contract.
+If a bond issuer does not pay the owed amount by the maturity date, the bond becomes delinquent. Subsequently, Arbor alerts the bond holders as well as credit protocols. If the principal and interest is not paid after one week, the bond is declared to be in default and the aforementioned parties are alerted once again. Once a bond is defaulted on, bond holders will be able to exchange their bond tokens for a prorated share of the collateral provided at issuance from the collateral contract.
 
 ### Mitigating default risk
 
