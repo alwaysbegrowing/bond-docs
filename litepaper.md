@@ -1,9 +1,12 @@
-# Arbor: DeFi Native Debt Financing
+---
+description: Arbor - DeFi Native Credit Markets
+---
+
+# Litepaper
 
 ## Abstract
 
-Arbor allows DAOs and other on-chain entities to obtain financing by selling long-term debt. Our first product is bonds for DAOs. 
-
+Arbor allows DAOs and other on-chain entities to obtain financing by selling long-term debt. Our first product is bonds for DAOs.
 
 ## Introduction
 
@@ -13,13 +16,11 @@ The creation of credit is an efficient way to allocate resources in a capitalist
 
 ### DAOs lack access to credit
 
-Permissionless credit markets predicated on social capital remain nascent. Notable pioneers like TrueFi or Maple Finance, while allowing for permissionless lending, still require contractual agreements on behalf of borrowers.[1](#references) [2](#references). Such constraints help explain why these types of credit lines have not yet been made available to DAOs. DAOs need dynamic, on-chain financing options that provide long-term capital and flexible repayment schedules to fit their timelines and goals. Bonds are flexible, long term debt instruments which have satisfied the credit needs of corporations for centuries and will do the same for DAOs.
+Permissionless credit markets predicated on social capital remain nascent. Notable pioneers like TrueFi or Maple Finance, while allowing for permissionless lending, still require contractual agreements on behalf of borrowers.[1](litepaper.md#references) [2](litepaper.md#references). Such constraints help explain why these types of credit lines have not yet been made available to DAOs. DAOs need dynamic, on-chain financing options that provide long-term capital and flexible repayment schedules to fit their timelines and goals. Bonds are flexible, long term debt instruments which have satisfied the credit needs of corporations for centuries and will do the same for DAOs.
 
 ### DAOs need credit
 
-
-The sale of equity-equivalent, governance tokens is the current, dominant strategy for DAOs looking to raise capital. While valuable as a method to initially fund development, selling governance tokens productively becomes increasingly difficult for a DAO as it matures. To start, there is not enough liquidity for large cap DAOs to sell any meaningful number of tokens on the open market without collapsing the price.[3](#references) Moreover, attempts by DAOs to sell tokens privately to raise funds have sparked community backlash by members wanting to avoid centralization. Even if the community allowed for private sales, the maximum supply inherent to most governance token contracts renders selling them unsustainable. Issuing bonds offers a sustainable way for mature DAOs to raise the capital needed for protocol development.
-
+The sale of equity-equivalent, governance tokens is the current, dominant strategy for DAOs looking to raise capital. While valuable as a method to initially fund development, selling governance tokens productively becomes increasingly difficult for a DAO as it matures. To start, there is not enough liquidity for large cap DAOs to sell any meaningful number of tokens on the open market without collapsing the price.[3](litepaper.md#references) Moreover, attempts by DAOs to sell tokens privately to raise funds have sparked community backlash by members wanting to avoid centralization. Even if the community allowed for private sales, the maximum supply inherent to most governance token contracts renders selling them unsustainable. Issuing bonds offers a sustainable way for mature DAOs to raise the capital needed for protocol development.
 
 ### Investing in bonds
 
@@ -49,8 +50,7 @@ A bond issuer’s credit is also at stake. As touched upon in the introduction, 
 
 To compensate investors for the default risk taken, DAOs can elect to make their bonds convertible to the collateral deposited at issuance. Convertibility gives bond holders the option to redeem their bonds for a prorated share of the collateral provided at any time. This provides bond holders a call option on the asset in the collateral contract with the breakeven price being determined by the amount of the collateral and the price of the bond with respect to the collateral asset. The value of convertibility is shown below in Figure 1.
 
-![convertibility chart](assets/convertibility_chart.png)
-**Figure 1:** Value of convertible bond. Assumes price of collateral asset is 1 USD at issuance and non-convertible bond is valued at 1 USD.
+![convertibility chart](assets/convertibility\_chart.png) **Figure 1:** Value of convertible bond. Assumes price of collateral asset is 1 USD at issuance and non-convertible bond is valued at 1 USD.
 
 ## Bond offering
 
@@ -60,14 +60,14 @@ A bond offering constitutes the initial pricing, issuance, and sale of bonds.
 
 To start a bond offering, bond issuers choose the following parameters, among others.
 
-- Bond Amount
-  - Number of bonds to issue
-- Term length
-  - Amount of time until bond matures
-- Collateral
-  - Amount and type of collateral securing debt
-- Convertibility
-  - Whether or not the bonds will be redeemable for the collateral provided
+* Bond Amount
+  * Number of bonds to issue
+* Term length
+  * Amount of time until bond matures
+* Collateral
+  * Amount and type of collateral securing debt
+* Convertibility
+  * Whether or not the bonds will be redeemable for the collateral provided
 
 Once the parameters are chosen and the required assets are deposited, bond tokens are minted to the issuer.
 
@@ -75,26 +75,25 @@ Once the parameters are chosen and the required assets are deposited, bond token
 
 Once the bond tokens are created the issuer has the ability to sell the bonds. They choose the following parameters.
 
-- Auction period
-  - Start and end datetime of the bond offering
-- Funding threshold
-  - Minimum amount to raise
-- APR cap
-  - Maximum interest rate issuer is willing to pay
+* Auction period
+  * Start and end datetime of the bond offering
+* Funding threshold
+  * Minimum amount to raise
+* APR cap
+  * Maximum interest rate issuer is willing to pay
 
 The debt offering is structured as a batch auction where bidders submit public bids with their desired allocation and interest rate. At the auction clearing, the bond interest rate is calculated. Bids are included in the order of lowest interest rate to highest with a higher bid amount breaking ties. The minimum interest rate required to reach the funding threshold is chosen. As shown in Figure 2, this is where supply and demand intersect. This is the final rate for all participants. Bidders who specified an interest rate lower than or equal to the final clearing interest rate receive bonds at the clearing interest rate. Bidders that specified an interest rate higher than the final clearing interest rate do not receive any bonds and have their funds refunded.
 
-![auction chart](assets/auction_chart.png)
-**Figure 2:** Interest rate discovery of batch auction
+![auction chart](assets/auction\_chart.png) **Figure 2:** Interest rate discovery of batch auction
 
 If the funding threshold is not surpassed, there is no auction settlement and bidders’ funds are returned.
 
 ## References
 
-1. TrustToken. <i>Introducing TrueFi, the DeFi Protocol for Uncollateralized Lending.</i> URL: https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48
-2. Katya Ternopolska. <i>Guide to Lending on Maple.</i> URL: https://maplefinance.ghost.io/lending/
-3. Hasu. <i>A New Mental Model for Defi Treasuries.</i> URL: https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/
-4. 0xMaki. <i>Sushi Phantom Troupe - Strategic Raise.</i> URL: https://forum.sushi.com/t/withdrawn-sushi-phantom-troupe-strategic-raise/4554
+1. TrustToken. _Introducing TrueFi, the DeFi Protocol for Uncollateralized Lending._ URL: https://blog.trusttoken.com/introducing-truefi-the-defi-protocol-for-uncollateralized-lending-9bfd6594a48
+2. Katya Ternopolska. _Guide to Lending on Maple._ URL: https://maplefinance.ghost.io/lending/
+3. Hasu. _A New Mental Model for Defi Treasuries._ URL: https://uncommoncore.co/a-new-mental-model-for-defi-treasuries/
+4. 0xMaki. _Sushi Phantom Troupe - Strategic Raise._ URL: https://forum.sushi.com/t/withdrawn-sushi-phantom-troupe-strategic-raise/4554
 
 ## Disclaimer
 

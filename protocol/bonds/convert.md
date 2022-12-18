@@ -6,7 +6,7 @@ Convertible bonds allow DAOs and other on-chain entities to borrow stablecoins u
 
 Convertible bonds give the lender upside in the collateral token along with the interest rate earned. When purchasing convertible bonds, lenders are effectively buying [call options](../../financial-concepts/convertible-bonds/call-options.md) on the collateral token, and purchasing a [zero coupon bond](../../financial-concepts/zero-coupon-bonds/).
 
-> Convertible Bond = Zero Coupon Bond + Call Options
+> Convertible Bond = Zero Coupon Bond + Call Option
 
 ## Why should investors buy convertible bonds?
 
@@ -22,7 +22,7 @@ Both yield farming and convertible bonds offer competitive yields. Historically,
 
 Yield farming programs are inherently unsustainable. The majority of yield earned through yield farming comes from the project providing their native token as a subsidy. Usually, around 10-30% of the APR comes from interest paid by borrowers while 70-90% comes from token subsidies.
 
-![](<../../.gitbook/assets/image (60).png>)
+![](<../../.gitbook/assets/image (27).png>)
 
 In contrast, the majority of yield earned through lending to DAOs comes from DAOs paying interest. This is because DAOs have revenue generating businesses which allow them to pay higher interest rates. This makes yield earned on DAO bonds much more sustainable because subsidies eventually stop, forcing the yield farming to look for greener pastures.
 
@@ -48,7 +48,7 @@ Arbor smart contracts are on Ethereum mainnet, which eliminates any bridging ris
 
 ### No credit risk
 
-Lending to DAOs does bear a risk that is not shared by yield farming. Credit risk. To mitigate this risk, Arbor confirms creditworthiness through verification and underwriting. In addition, DAOs heavily overcollateralize their bond issuances to mitigate incentive to default. DAOs also use an on-chain signature service to promise they will repay the amount borrowed plus interest.
+Lending to DAOs does bear a risk that is not shared by yield farming. Credit risk. To mitigate this risk, Arbor helps surface the DAOs financials and history with a public credit report. In addition, DAOs heavily overcollateralize their bond issuances to mitigate incentive to default. DAOs also use an on-chain signature to promise they will repay the amount borrowed plus interest.
 
 ## Why should DAOs sell convertible bonds?
 
