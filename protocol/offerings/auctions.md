@@ -49,3 +49,7 @@ Define your maximum acceptable bond price and therefore minimum accepted yield f
 If the current bond price at the auction's closing is lower than your accepted maximum bond price, your order will get filled. You can claim your bonds after the auction.
 
 Please find a video with a walk-through [here](https://youtu.be/dlOd0nAUmVM).&#x20;
+
+
+
+{% embed url="https://www.youtube.com/watch?v=dlOd0nAUmVM" %}
