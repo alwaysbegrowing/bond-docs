@@ -12,11 +12,11 @@ The bonds are newly issued with no established trading markets. We cannot assure
 
 The market prices of the bonds will depend on many factors, including, but not limited to, the following:
 
-- Credit-worthiness of the issuing DAO
-- Time remaining until maturity of the bonds
-- Prevailing interest rates being paid by other DAOs
-- Results of issuer operations, financial condition and prospects
-- Condition of the financial markets.
+* Credit-worthiness of the issuing DAO
+* Time remaining until maturity of the bonds
+* Prevailing interest rates being paid by other DAOs
+* Results of issuer operations, financial condition and prospects
+* Condition of the financial markets.
 
 The condition of the financial markets and prevailing interest rates have fluctuated in the past and are likely to fluctuate in the future, which could have an adverse effect on the market prices of the bonds.
 
@@ -38,16 +38,16 @@ For example, let’s say XYZ DAO issues a bond and puts up some $XYZ tokens as c
 
 ### Mitigating collateral token risk
 
-Borrowers use collateral tokens to back their issuances. The usage of these collateral tokens introduces risk for users. The following measures are to mitigate the risk faced by users and were taken from the [Tribe Turbo Launch Group proposal](https://tribe.fei.money/t/tribe-turbo-launch-group/3959) created by Brianna Montgomery. She is the head of security at Fei protocol and we trust her judgement on creating safety measures.
+Borrowers use collateral tokens to back their issuances. The usage of these collateral tokens introduces risk for users. The following measures are to mitigate the risk faced by users:
 
-- Token contract must be verified on Etherscan.
-- Token contract has received an audit from a known security auditor
-- The project should have a publicly visible test environment
-- Administrative privileges over the protocol should not be owned by an EOA, any multisig must have known members.
-- If token supply is not fixed, conditions under which supply can increase needs to be made aware of and low risk
-- No restrictions on transferring or trading such as holding the tokens for a number of blocks before you can transfer them, fees/taxes on transfers etc
-- Token transfers shouldn’t be pausable or subject to a whitelist
-- Token ownership should be widely distributed with no address (whale) owning more than 30%
+* Token contract must be verified on Etherscan.
+* Token contract has received an audit from a known security auditor
+* The project should have a publicly visible test environment
+* Administrative privileges over the protocol should not be owned by an EOA, any multisig must have known members.
+* If token supply is not fixed, conditions under which supply can increase needs to be made aware of and low risk
+* No restrictions on transferring or trading such as holding the tokens for a number of blocks before you can transfer them, fees/taxes on transfers etc
+* Token transfers shouldn’t be pausable or subject to a whitelist
+* Token ownership should be widely distributed with no address (whale) owning more than 30%
 
 ## The use of smart contracts introduces risk
 
