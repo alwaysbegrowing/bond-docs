@@ -26,7 +26,7 @@ This may lead to complete or partial loss of user funds.
 
 ### Mitigating default risk
 
-The Arbor Finance team takes issuers through a verification process and underwrites bond issuances by thoroughly reviewing the DAO's financials and analyzing the risk of the collateral provided.
+The Arbor Finance team takes issuers through a verification process and helps to surface details about the issuer.
 
 ## In the case of a default, collateral slippage may occur if lenders liquidate collateral
 
