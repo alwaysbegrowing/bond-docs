@@ -38,6 +38,7 @@
 
 ## Developer API
 
+* [Architecture](developer-api/architecture.md)
 * [Bond](developer-api/bond.md)
 * [BondFactory](developer-api/bondfactory.md)
 
