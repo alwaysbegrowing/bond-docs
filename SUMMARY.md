@@ -45,7 +45,11 @@
 ## Resources
 
 * [Risks](resources/risks.md)
-* [Bug Bounty](https://immunefi.com/bounty/arborfinance/)
-* [Discord](https://discord.gg/facdBD3ZtA)
 * [Website](https://arbor.garden)
 * [App](https://app.arbor.garden)
+* [Bug Bounty](https://immunefi.com/bounty/arborfinance/)
+* [Substack](https://arborfinance.substack.com/)
+* [Discord](https://discord.gg/facdBD3ZtA)
+* [Medium](https://medium.com/arbor-finance)
+* [Twitter](https://twitter.com/arborfinance/)
+* [Github](https://github.com/alwaysbegrowing)
