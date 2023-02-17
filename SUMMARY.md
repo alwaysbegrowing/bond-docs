@@ -6,11 +6,11 @@
 
 ## Protocol
 
+* [Auctions](protocol/auctions.md)
+* [Token](protocol/arbor-token.md)
 * [Bonds](protocol/bonds/README.md)
   * [Simple bonds](protocol/bonds/simple.md)
   * [Convertible bonds](protocol/bonds/convert.md)
-* [Auctions](protocol/auctions.md)
-* [Token](protocol/arbor-token.md)
 
 ## Participants
 
@@ -47,7 +47,7 @@
 * [App](https://app.arbor.garden)
 * [Bug Bounty](https://immunefi.com/bounty/arborfinance/)
 * [Substack](https://arborfinance.substack.com/)
-* [Discord](https://discord.gg/facdBD3ZtA)
+* [Discord](https://discord.arbor.finance)
 * [Medium](https://medium.com/arbor-finance)
 * [Twitter](https://twitter.com/arborfinance/)
 * [Github](https://github.com/alwaysbegrowing)
