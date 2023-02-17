@@ -1,3 +1,7 @@
+---
+description: How Arbor bonds are sold
+---
+
 # Auctions
 
 ## Summary
@@ -10,7 +14,7 @@ Auctions allow borrowers to set a minimum price for their bond sales and allow m
 
 Auctions are implemented as batch auctions where lenders submit public bids with their desired amount and interest rate. Bids are included in the order of lowest interest rate to highest, with a higher bid amount breaking ties. At the close of the auction, the minimum interest rate required to reach the funding threshold is determined. This is the final rate for all participants. Lenders who specified an interest rate lower than or equal to the final clearing interest rate receive bonds at the clearing interest rate. Lenders that specified an interest rate higher than the final clearing interest rate do not receive any bonds and have their funds refunded.
 
-![](<../../.gitbook/assets/image (44).png>)
+![](<../.gitbook/assets/image (44).png>)
 
 If the funding threshold is not surpassed, there is no auction settlement and lenders’ funds are returned.
 

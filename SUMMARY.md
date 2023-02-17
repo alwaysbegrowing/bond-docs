@@ -9,9 +9,7 @@
 * [Bonds](protocol/bonds/README.md)
   * [Simple bonds](protocol/bonds/simple.md)
   * [Convertible bonds](protocol/bonds/convert.md)
-* [Offerings](protocol/offerings/README.md)
-  * [Auctions](protocol/offerings/auctions.md)
-  * [OTC sales](protocol/offerings/otc-sales.md)
+* [Auctions](protocol/auctions.md)
 * [Token](protocol/arbor-token.md)
 
 ## Participants
