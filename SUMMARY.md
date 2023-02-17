@@ -4,15 +4,6 @@
 * [Litepaper](litepaper.md)
 * [FAQ](faq.md)
 
-## Financial concepts
-
-* [Zero Coupon Bonds](financial-concepts/zero-coupon-bonds/README.md)
-  * [Overview](financial-concepts/zero-coupon-bonds/characteristics-of-bonds.md)
-  * [ZCB pricing](financial-concepts/zero-coupon-bonds/zcb-pricing.md)
-* [Options](financial-concepts/convertible-bonds/README.md)
-  * [Call options](financial-concepts/convertible-bonds/call-options.md)
-* [Option pricing](financial-concepts/convertible-bonds/option-pricing.md)
-
 ## Protocol
 
 * [Bonds](protocol/bonds/README.md)
@@ -35,6 +26,15 @@
   * [How does lending work?](participants/lenders/how-to-lend.md)
   * [When can I convert my bonds?](participants/lenders/when-can-i-convert-my-bonds.md)
   * [How do defaults work?](participants/lenders/defaults.md)
+
+## Financial concepts
+
+* [Zero Coupon Bonds](financial-concepts/zero-coupon-bonds/README.md)
+  * [Overview](financial-concepts/zero-coupon-bonds/characteristics-of-bonds.md)
+  * [ZCB pricing](financial-concepts/zero-coupon-bonds/zcb-pricing.md)
+* [Options](financial-concepts/convertible-bonds/README.md)
+  * [Call options](financial-concepts/convertible-bonds/call-options.md)
+* [Option pricing](financial-concepts/convertible-bonds/option-pricing.md)
 
 ## Developer API
 

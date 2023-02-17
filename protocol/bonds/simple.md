@@ -14,7 +14,7 @@ Simple bonds offer investors an alternative to yield farming by providing sustai
 
 ### Competitive yields
 
-Both yield farming and simple bonds offer competitive yields. Historically, yield farming has provided 10-20% variable returns but those have compressed recently due to decreases in farming token prices. We expect lenders to earn 10-15% return on simple bonds issued through Arbor.
+Both yield farming and simple bonds offer competitive yields. Historically, yield farming has provided 10-20% variable returns but those have compressed recently due to decreases in farming token prices. We expect lenders to earn 10-20% return on simple bonds issued through Arbor.
 
 ### Sustainable returns
 
