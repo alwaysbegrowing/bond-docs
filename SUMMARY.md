@@ -17,12 +17,12 @@
 * [Borrowers](participants/borrowers/README.md)
   * [How does borrowing work?](participants/borrowers/how-to-borrow.md)
   * [How does my DAO get verified?](participants/borrowers/verification.md)
-  * [What are the fees?](participants/borrowers/fees.md)
   * [How do defaults work?](participants/borrowers/how-do-defaults-work.md)
   * [Credit Enhancers](participants/borrowers/credit-enhancers.md)
+  * [What are the fees?](participants/borrowers/fees.md)
 * [Lenders](participants/lenders/README.md)
-  * [How does lending work?](participants/lenders/how-to-lend.md)
   * [When can I convert my bonds?](participants/lenders/when-can-i-convert-my-bonds.md)
+  * [How does lending work?](participants/lenders/how-to-lend.md)
   * [How do defaults work?](participants/lenders/defaults.md)
 
 ## Financial concepts

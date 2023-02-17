@@ -1,6 +1,6 @@
 # How does borrowing work?
 
-Borrowing is facilitated through the creation of a [bond](../../protocol/bonds/) and its sale through an [offering](broken-reference).
+Borrowing is facilitated through the creation of a [bond](../../protocol/bonds/) and its sale through an [auction](../../protocol/auctions.md).
 
 {% hint style="info" %}
 If your DAO is interested in becoming a borrower, fill out this [borrower form](https://forms.gle/Hn4FQscKbj9BniKu8) and we will get back to you shortly.
