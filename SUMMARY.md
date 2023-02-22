@@ -11,6 +11,8 @@
 * [Bonds](protocol/bonds/README.md)
   * [Simple bonds](protocol/bonds/simple.md)
   * [Convertible bonds](protocol/bonds/convert.md)
+* [Orderbook](protocol/orderbook/README.md)
+  * [Create an order](protocol/orderbook/create-an-order.md)
 
 ## Participants
 
